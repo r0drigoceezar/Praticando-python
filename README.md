@@ -1,2 +1,3 @@
 # praticando-python
-estudando python na prática pelo jupyter
+Vou postar toda semana meu avanço de aprendizagem e aperfeiçoamento no python. 
+
